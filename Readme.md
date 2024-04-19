@@ -6,12 +6,13 @@ Template project for using [`@if-framework/framework`](https://github.com/tareks
 
 ## Usage
 
+<!--
 ### CLI
 
 Install the IFF CLI with `npm i -g @if-framework/cli` and create a new project from the template with `iff new <directory> [URL]` where `<directory>` is the name of the new directory the project will be created in and `[URL]` an optional URL to a git repository [cloned from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
 When using your own repository, you can commit and push changes without further configuration. When using the template repository directly, you have to configure the git remote yourself.
-
+-->
 
 ### Manually
 
