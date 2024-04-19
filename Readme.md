@@ -52,6 +52,10 @@ After initializing the template you should:
 
 To build the story, [Webpack](https://github.com/webpack/webpack) is used as the module bundler/build tool. See the `webpack.config.js` in the example for an explanation of the used loaders and plugins.
 
+To build and serve a development build with hot reload, use `npm run serve`.
+
+To build a release build to the `dist` directory, run `npm run build`.
+
 ## Offline Availability & Installable PWA
 
 This template is configured such that the built site is [installable as a PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Installing) in supported browsers (most except Firefox Desktop).
